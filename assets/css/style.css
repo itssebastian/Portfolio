@@ -33,7 +33,7 @@ h4 {
 
 p {
 	color: #181a1b;
-	font-size: 16px;
+	font-size: 20px;
 }
 
 /* 02. GENERAL
@@ -874,7 +874,7 @@ body {
 #hire p {
 	width: 30em;
 	max-width: 100%;
-	font-family:cursive;
+	font-family:sans-serif;
 	font-size: large;
 }
 
